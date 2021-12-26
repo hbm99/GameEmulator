@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emulator", "Emulator\Emulator.csproj", "{C736F3B6-F14D-4607-8354-A08EB6C7C3E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmulatorVisual", "EmulatorVisual\EmulatorVisual.csproj", "{AE396DED-EAB1-4284-9301-B580B4F28435}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C736F3B6-F14D-4607-8354-A08EB6C7C3E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C736F3B6-F14D-4607-8354-A08EB6C7C3E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C736F3B6-F14D-4607-8354-A08EB6C7C3E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C736F3B6-F14D-4607-8354-A08EB6C7C3E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE396DED-EAB1-4284-9301-B580B4F28435}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE396DED-EAB1-4284-9301-B580B4F28435}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE396DED-EAB1-4284-9301-B580B4F28435}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE396DED-EAB1-4284-9301-B580B4F28435}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {042F1318-CAC5-4310-85A4-ACC6F63780D0}
+	EndGlobalSection
+EndGlobal

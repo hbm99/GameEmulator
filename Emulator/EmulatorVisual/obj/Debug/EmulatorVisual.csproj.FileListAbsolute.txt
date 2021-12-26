@@ -1,0 +1,52 @@
+D:\School\Mío\Programación\My Apps\Game Emulator\Emulator\EmulatorVisual\bin\Debug\EmulatorVisual.exe.config
+D:\School\Mío\Programación\My Apps\Game Emulator\Emulator\EmulatorVisual\bin\Debug\EmulatorVisual.exe
+D:\School\Mío\Programación\My Apps\Game Emulator\Emulator\EmulatorVisual\bin\Debug\EmulatorVisual.pdb
+D:\School\Mío\Programación\My Apps\Game Emulator\Emulator\EmulatorVisual\obj\Debug\EmulatorVisual.csprojAssemblyReference.cache
+D:\School\Mío\Programación\My Apps\Game Emulator\Emulator\EmulatorVisual\obj\Debug\EmulatorVisual.Properties.Resources.resources
+D:\School\Mío\Programación\My Apps\Game Emulator\Emulator\EmulatorVisual\obj\Debug\EmulatorVisual.csproj.GenerateResource.cache
+D:\School\Mío\Programación\My Apps\Game Emulator\Emulator\EmulatorVisual\obj\Debug\EmulatorVisual.csproj.CoreCompileInputs.cache
+D:\School\Mío\Programación\My Apps\Game Emulator\Emulator\EmulatorVisual\obj\Debug\EmulatorVisual.exe
+D:\School\Mío\Programación\My Apps\Game Emulator\Emulator\EmulatorVisual\obj\Debug\EmulatorVisual.pdb
+D:\School\Mío\Programación\My Apps\Game Emulator\Emulator\EmulatorVisual\bin\Debug\Emulator.dll
+D:\School\Mío\Programación\My Apps\Game Emulator\Emulator\EmulatorVisual\bin\Debug\Emulator.pdb
+D:\School\Mío\Programación\My Apps\Game Emulator\Emulator\EmulatorVisual\obj\Debug\EmulatorVisual.MainForm.resources
+D:\School\Mío\Programación\My Apps\Game Emulator\Emulator\EmulatorVisual\obj\Debug\EmulatorVisual.csproj.CopyComplete
+D:\School\Mío\Programación\My Apps\Game Emulator\Emulator\EmulatorVisual\obj\Debug\EmulatorVisual.Settings.resources
+D:\School\Mío\Programación\My Apps\Game Emulator\Emulator\EmulatorVisual\obj\Debug\EmulatorVisual.GameOptions.resources
+D:\School\Mío\Programación\My Apps\Game Emulator\Emulator\EmulatorVisual\obj\Debug\EmulatorVisual.MainTicTacToe.resources
+C:\Users\Hansel Blanco\Documents\Game Emulator\Emulator\EmulatorVisual\bin\Debug\EmulatorVisual.exe.config
+C:\Users\Hansel Blanco\Documents\Game Emulator\Emulator\EmulatorVisual\bin\Debug\EmulatorVisual.exe
+C:\Users\Hansel Blanco\Documents\Game Emulator\Emulator\EmulatorVisual\bin\Debug\EmulatorVisual.pdb
+C:\Users\Hansel Blanco\Documents\Game Emulator\Emulator\EmulatorVisual\bin\Debug\Emulator.dll
+C:\Users\Hansel Blanco\Documents\Game Emulator\Emulator\EmulatorVisual\bin\Debug\Emulator.pdb
+C:\Users\Hansel Blanco\Documents\Game Emulator\Emulator\EmulatorVisual\obj\Debug\EmulatorVisual.csprojAssemblyReference.cache
+C:\Users\Hansel Blanco\Documents\Game Emulator\Emulator\EmulatorVisual\obj\Debug\EmulatorVisual.GameOptions.resources
+C:\Users\Hansel Blanco\Documents\Game Emulator\Emulator\EmulatorVisual\obj\Debug\EmulatorVisual.MainForm.resources
+C:\Users\Hansel Blanco\Documents\Game Emulator\Emulator\EmulatorVisual\obj\Debug\EmulatorVisual.MainTicTacToe.resources
+C:\Users\Hansel Blanco\Documents\Game Emulator\Emulator\EmulatorVisual\obj\Debug\EmulatorVisual.Properties.Resources.resources
+C:\Users\Hansel Blanco\Documents\Game Emulator\Emulator\EmulatorVisual\obj\Debug\EmulatorVisual.Settings.resources
+C:\Users\Hansel Blanco\Documents\Game Emulator\Emulator\EmulatorVisual\obj\Debug\EmulatorVisual.TeamSettings.resources
+C:\Users\Hansel Blanco\Documents\Game Emulator\Emulator\EmulatorVisual\obj\Debug\EmulatorVisual.csproj.GenerateResource.cache
+C:\Users\Hansel Blanco\Documents\Game Emulator\Emulator\EmulatorVisual\obj\Debug\EmulatorVisual.csproj.CoreCompileInputs.cache
+C:\Users\Hansel Blanco\Documents\Game Emulator\Emulator\EmulatorVisual\obj\Debug\EmulatorVisual.csproj.CopyComplete
+C:\Users\Hansel Blanco\Documents\Game Emulator\Emulator\EmulatorVisual\obj\Debug\EmulatorVisual.exe
+C:\Users\Hansel Blanco\Documents\Game Emulator\Emulator\EmulatorVisual\obj\Debug\EmulatorVisual.pdb
+C:\Users\Hansel Blanco\Documents\Game Emulator\Emulator\EmulatorVisual\obj\Debug\EmulatorVisual.CreateNormalTournament.resources
+C:\Users\Hansel Blanco\Documents\My apps\Game Emulator\Emulator\EmulatorVisual\bin\Debug\EmulatorVisual.exe.config
+C:\Users\Hansel Blanco\Documents\My apps\Game Emulator\Emulator\EmulatorVisual\bin\Debug\EmulatorVisual.exe
+C:\Users\Hansel Blanco\Documents\My apps\Game Emulator\Emulator\EmulatorVisual\bin\Debug\EmulatorVisual.pdb
+C:\Users\Hansel Blanco\Documents\My apps\Game Emulator\Emulator\EmulatorVisual\bin\Debug\Emulator.dll
+C:\Users\Hansel Blanco\Documents\My apps\Game Emulator\Emulator\EmulatorVisual\bin\Debug\Emulator.pdb
+C:\Users\Hansel Blanco\Documents\My apps\Game Emulator\Emulator\EmulatorVisual\obj\Debug\EmulatorVisual.csprojAssemblyReference.cache
+C:\Users\Hansel Blanco\Documents\My apps\Game Emulator\Emulator\EmulatorVisual\obj\Debug\EmulatorVisual.CreateNormalTournament.resources
+C:\Users\Hansel Blanco\Documents\My apps\Game Emulator\Emulator\EmulatorVisual\obj\Debug\EmulatorVisual.GameOptions.resources
+C:\Users\Hansel Blanco\Documents\My apps\Game Emulator\Emulator\EmulatorVisual\obj\Debug\EmulatorVisual.MainForm.resources
+C:\Users\Hansel Blanco\Documents\My apps\Game Emulator\Emulator\EmulatorVisual\obj\Debug\EmulatorVisual.MainTicTacToe.resources
+C:\Users\Hansel Blanco\Documents\My apps\Game Emulator\Emulator\EmulatorVisual\obj\Debug\EmulatorVisual.Properties.Resources.resources
+C:\Users\Hansel Blanco\Documents\My apps\Game Emulator\Emulator\EmulatorVisual\obj\Debug\EmulatorVisual.Settings.resources
+C:\Users\Hansel Blanco\Documents\My apps\Game Emulator\Emulator\EmulatorVisual\obj\Debug\EmulatorVisual.csproj.GenerateResource.cache
+C:\Users\Hansel Blanco\Documents\My apps\Game Emulator\Emulator\EmulatorVisual\obj\Debug\EmulatorVisual.csproj.CoreCompileInputs.cache
+C:\Users\Hansel Blanco\Documents\My apps\Game Emulator\Emulator\EmulatorVisual\obj\Debug\EmulatorVisual.csproj.CopyComplete
+C:\Users\Hansel Blanco\Documents\My apps\Game Emulator\Emulator\EmulatorVisual\obj\Debug\EmulatorVisual.exe
+C:\Users\Hansel Blanco\Documents\My apps\Game Emulator\Emulator\EmulatorVisual\obj\Debug\EmulatorVisual.pdb
+C:\Users\Hansel Blanco\Documents\My apps\Game Emulator\Emulator\EmulatorVisual\obj\Debug\EmulatorVisual.MainPointingGame.resources

@@ -1,0 +1,18 @@
+D:\School\Mío\Programación\My Apps\Game Emulator\Emulator\Emulator\obj\Debug\Emulator.csprojAssemblyReference.cache
+D:\School\Mío\Programación\My Apps\Game Emulator\Emulator\Emulator\obj\Debug\Emulator.csproj.CoreCompileInputs.cache
+D:\School\Mío\Programación\My Apps\Game Emulator\Emulator\Emulator\bin\Debug\Emulator.dll
+D:\School\Mío\Programación\My Apps\Game Emulator\Emulator\Emulator\bin\Debug\Emulator.pdb
+D:\School\Mío\Programación\My Apps\Game Emulator\Emulator\Emulator\obj\Debug\Emulator.dll
+D:\School\Mío\Programación\My Apps\Game Emulator\Emulator\Emulator\obj\Debug\Emulator.pdb
+C:\Users\Hansel Blanco\Documents\Game Emulator\Emulator\Emulator\bin\Debug\Emulator.dll
+C:\Users\Hansel Blanco\Documents\Game Emulator\Emulator\Emulator\bin\Debug\Emulator.pdb
+C:\Users\Hansel Blanco\Documents\Game Emulator\Emulator\Emulator\obj\Debug\Emulator.csprojAssemblyReference.cache
+C:\Users\Hansel Blanco\Documents\Game Emulator\Emulator\Emulator\obj\Debug\Emulator.csproj.CoreCompileInputs.cache
+C:\Users\Hansel Blanco\Documents\Game Emulator\Emulator\Emulator\obj\Debug\Emulator.dll
+C:\Users\Hansel Blanco\Documents\Game Emulator\Emulator\Emulator\obj\Debug\Emulator.pdb
+C:\Users\Hansel Blanco\Documents\My apps\Game Emulator\Emulator\Emulator\obj\Debug\Emulator.csprojAssemblyReference.cache
+C:\Users\Hansel Blanco\Documents\My apps\Game Emulator\Emulator\Emulator\obj\Debug\Emulator.csproj.CoreCompileInputs.cache
+C:\Users\Hansel Blanco\Documents\My apps\Game Emulator\Emulator\Emulator\obj\Debug\Emulator.dll
+C:\Users\Hansel Blanco\Documents\My apps\Game Emulator\Emulator\Emulator\obj\Debug\Emulator.pdb
+C:\Users\Hansel Blanco\Documents\My apps\Game Emulator\Emulator\Emulator\bin\Debug\Emulator.dll
+C:\Users\Hansel Blanco\Documents\My apps\Game Emulator\Emulator\Emulator\bin\Debug\Emulator.pdb

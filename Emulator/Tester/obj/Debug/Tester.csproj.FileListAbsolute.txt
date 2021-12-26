@@ -1,0 +1,30 @@
+D:\School\Mío\Programación\My Apps\Game Emulator\Emulator\Tester\bin\Debug\Tester.exe.config
+D:\School\Mío\Programación\My Apps\Game Emulator\Emulator\Tester\bin\Debug\Tester.exe
+D:\School\Mío\Programación\My Apps\Game Emulator\Emulator\Tester\bin\Debug\Tester.pdb
+D:\School\Mío\Programación\My Apps\Game Emulator\Emulator\Tester\bin\Debug\Emulator.dll
+D:\School\Mío\Programación\My Apps\Game Emulator\Emulator\Tester\bin\Debug\Emulator.pdb
+D:\School\Mío\Programación\My Apps\Game Emulator\Emulator\Tester\obj\Debug\Tester.csprojAssemblyReference.cache
+D:\School\Mío\Programación\My Apps\Game Emulator\Emulator\Tester\obj\Debug\Tester.csproj.CoreCompileInputs.cache
+D:\School\Mío\Programación\My Apps\Game Emulator\Emulator\Tester\obj\Debug\Tester.csproj.CopyComplete
+D:\School\Mío\Programación\My Apps\Game Emulator\Emulator\Tester\obj\Debug\Tester.exe
+D:\School\Mío\Programación\My Apps\Game Emulator\Emulator\Tester\obj\Debug\Tester.pdb
+C:\Users\Hansel Blanco\Documents\Game Emulator\Emulator\Tester\bin\Debug\Tester.exe.config
+C:\Users\Hansel Blanco\Documents\Game Emulator\Emulator\Tester\bin\Debug\Tester.exe
+C:\Users\Hansel Blanco\Documents\Game Emulator\Emulator\Tester\bin\Debug\Tester.pdb
+C:\Users\Hansel Blanco\Documents\Game Emulator\Emulator\Tester\bin\Debug\Emulator.dll
+C:\Users\Hansel Blanco\Documents\Game Emulator\Emulator\Tester\bin\Debug\Emulator.pdb
+C:\Users\Hansel Blanco\Documents\Game Emulator\Emulator\Tester\obj\Debug\Tester.csprojAssemblyReference.cache
+C:\Users\Hansel Blanco\Documents\Game Emulator\Emulator\Tester\obj\Debug\Tester.csproj.CoreCompileInputs.cache
+C:\Users\Hansel Blanco\Documents\Game Emulator\Emulator\Tester\obj\Debug\Tester.csproj.CopyComplete
+C:\Users\Hansel Blanco\Documents\Game Emulator\Emulator\Tester\obj\Debug\Tester.exe
+C:\Users\Hansel Blanco\Documents\Game Emulator\Emulator\Tester\obj\Debug\Tester.pdb
+C:\Users\Hansel Blanco\Documents\My apps\Game Emulator\Emulator\Tester\bin\Debug\Tester.exe.config
+C:\Users\Hansel Blanco\Documents\My apps\Game Emulator\Emulator\Tester\bin\Debug\Tester.exe
+C:\Users\Hansel Blanco\Documents\My apps\Game Emulator\Emulator\Tester\bin\Debug\Tester.pdb
+C:\Users\Hansel Blanco\Documents\My apps\Game Emulator\Emulator\Tester\bin\Debug\Emulator.dll
+C:\Users\Hansel Blanco\Documents\My apps\Game Emulator\Emulator\Tester\bin\Debug\Emulator.pdb
+C:\Users\Hansel Blanco\Documents\My apps\Game Emulator\Emulator\Tester\obj\Debug\Tester.csprojAssemblyReference.cache
+C:\Users\Hansel Blanco\Documents\My apps\Game Emulator\Emulator\Tester\obj\Debug\Tester.csproj.CoreCompileInputs.cache
+C:\Users\Hansel Blanco\Documents\My apps\Game Emulator\Emulator\Tester\obj\Debug\Tester.csproj.CopyComplete
+C:\Users\Hansel Blanco\Documents\My apps\Game Emulator\Emulator\Tester\obj\Debug\Tester.exe
+C:\Users\Hansel Blanco\Documents\My apps\Game Emulator\Emulator\Tester\obj\Debug\Tester.pdb
